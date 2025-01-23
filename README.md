@@ -42,7 +42,7 @@ Modify these variables in the script:
 
 Run the script:
 ```bash
-python downloads_automation.py
+python downloads_automation.py```
 
 The script will continuously monitor the source directory and organize files in real-time.
 
